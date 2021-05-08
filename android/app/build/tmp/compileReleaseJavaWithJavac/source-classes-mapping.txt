@@ -1,0 +1,9 @@
+com/hellog/BuildConfig.java
+ com.hellog.BuildConfig
+com/hellog/MainActivity.java
+ com.hellog.MainActivity
+com/hellog/MainApplication.java
+ com.hellog.MainApplication
+ com.hellog.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

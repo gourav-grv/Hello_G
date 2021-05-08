@@ -1,0 +1,14 @@
+com/hellog/ReactNativeFlipper.java
+ com.hellog.ReactNativeFlipper
+ com.hellog.ReactNativeFlipper$1
+ com.hellog.ReactNativeFlipper$2
+ com.hellog.ReactNativeFlipper$2$1
+com/hellog/BuildConfig.java
+ com.hellog.BuildConfig
+com/hellog/MainActivity.java
+ com.hellog.MainActivity
+com/hellog/MainApplication.java
+ com.hellog.MainApplication
+ com.hellog.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
